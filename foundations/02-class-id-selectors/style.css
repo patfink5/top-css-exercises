@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.red-block {
+    background-color: #F7B0BB;
+    color: black;
+    font-size: 18px;
+
+}
+
+#large-title {
+    color: #1919F3;
+    font-size: 36px;
+
+}
+
+#small-title {
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+
+}
